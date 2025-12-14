@@ -1,0 +1,7 @@
+{
+  "name": "GrammarLens",
+  "description": "An AI-powered classroom assistant that scans student work for grammar errors and tracks individual progress over time.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
